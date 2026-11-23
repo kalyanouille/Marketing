@@ -4,7 +4,8 @@
       "command": "npx",
       "args": ["-y", "@brave/brave-search-mcp-server@2.2.0", "--transport", "stdio"],
       "env": {
-        "BRAVE_API_KEY": "placeholder-real-key-injected-by-environment-proxy"
+        "BRAVE_API_KEY": "placeholder-real-key-injected-by-environment-proxy",
+        "NODE_USE_ENV_PROXY": "1"
       }
     }
   }
