@@ -49,3 +49,9 @@ qui se marient en Thaïlande.
 | The Wedding Bliss Thailand | Phuket | theweddingblissthailand.com | Référence du secteur depuis 2011 |
 | Siam Vows | Thaïlande | siamvows.com | Agence dirigée par des Thaïlandais, pour couples internationaux |
 | Ivory Wedding Thailand | Chiang Mai / Khao Yai | ivoryweddingthailand.com | Planners anglophones |
+
+## Où trouver des missions bénévoles (recherche du 23/11/2026)
+- Facebook : « Bangkok Volunteers Plus » (facebook.com/groups/bangkokvolunteers), « Get Lost in BKK & Beyond » (facebook.com/groups/getlostinbkkandbeyond), « Fun in Bangkok » (facebook.com/groups/funinbangkok)
+- Meetup : Get Lost in Volunteer & Beyond, Bangkok Volunteers
+- Conférences qui recrutent des bénévoles : WCASET (18–19 déc. 2026), ICEDU 2027, Thailand Fashion Week (bénévoles à chaque saison)
+- Mots-clés Facebook en thaï : รับสมัครอาสาสมัคร (recherche de bénévoles), สตาฟอีเว้นท์ (staff événementiel), อาสาสมัคร งานอีเว้นท์ (bénévole événement)
