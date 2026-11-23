@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "brave-search": {
+      "command": "npx",
+      "args": ["-y", "@brave/brave-search-mcp-server@2.2.0", "--transport", "stdio"],
+      "env": {
+        "BRAVE_API_KEY": "placeholder-real-key-injected-by-environment-proxy"
+      }
+    }
+  }
+}
